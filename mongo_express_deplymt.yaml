@@ -37,6 +37,8 @@ spec:
               key: database_url
 
 ---
+
+# External service
 apiVersion: v1
 kind: Service
 metadata:
